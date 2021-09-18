@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    font-family: 'roboto', sans-serif;
+    color:white;
+}
+
+header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:left;
+}
+
+#about{
+    font-weight: lighter;
+}
+
+#cards{
+    font-family: 'Roboto light';
+    font-weight: 300;
+}
+
+h3{
+    font-size: 20px;
+}
